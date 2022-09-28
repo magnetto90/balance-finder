@@ -1,5 +1,6 @@
 const testFolder = './chains/_data/chains/';
 const fs = require('fs');
+require('dotenv').config()
 const ethers = require('ethers');
 
 fs.readdir(testFolder, (err, files) => {
