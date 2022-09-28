@@ -1,0 +1,3 @@
+[submodule "chains"]
+	path = chains
+	url = https://github.com/ethereum-lists/chains.git
